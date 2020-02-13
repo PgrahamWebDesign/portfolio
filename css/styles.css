@@ -1,0 +1,84 @@
+/* CSS Document */
+body{
+	margin:0;
+	text-align: left;
+	font-family:"Roboto","Poppins",
+	"Monterrat"
+}
+
+.main-text{ 
+	font-family:Roboto;
+	font-size: 1.125rem;
+}
+
+.author-text{ 
+	font-family: Poppins;
+	color:#393E46;
+	font-size: 1.5rem
+}
+
+.top-container{
+	background-color:deepskyblue;
+	position: relative;
+	padding-top: 100px;
+	text-align: center;
+}
+
+.profile-container{
+	background-color:#fff;
+	text-align: center;
+}
+
+.middle-container{
+	background-color:#000;
+	position: relative;
+	padding: 5% 20% 20%;
+}
+
+.bottom-container{
+	background-color: #e23e57;
+	position: relative;
+	padding: 5% 20% 20%;
+}
+
+.blog-container{
+	width:1140px;
+	margin:20px auto 0 auto;
+}
+
+.Main-text {
+	color:deepskyblue;
+	font-family: 'Merriweather', serif;
+	font-weight: normal;
+	padding-bottom: 10px;
+	padding-left: 500px;
+}
+.center-text {
+	color: deepskyblue;
+	width: 30%;
+	margin: auto;
+	line-height: 3;
+	padding-left: 30px;
+}
+/* Features Section */
+
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 2.5rem;
+
+}
+
+.feature-box {
+  padding: 4.5%;
+	padding-left: 475px;
+}
+
+.code-flaticon {
+	padding-left: 200px;
+}
+
+
+
